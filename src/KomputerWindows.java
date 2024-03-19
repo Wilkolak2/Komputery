@@ -18,4 +18,9 @@ public class KomputerWindows implements Komputer{
         System.out.println("Windows został zepsuty");
     }
 
+    @Override
+    public int compareTo(Komputer o) {
+
+    }
+
 }

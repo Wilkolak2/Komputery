@@ -8,8 +8,8 @@ public class Main {
         KomputerWindows komputerW1 = new KomputerWindows("Asus", "Widnows 11");
         KomputerWindows komputerW2 = new KomputerWindows("Dell", "Widnows 11");
 
-        KomputerMac komputerM1 = new KomputerMac("Mac","OS 17");
-        KomputerMac komputerM2 = new KomputerMac("Macbook","OS 17");
+        KomputerMac komputerM1 = new KomputerMac("air","OS 17");
+        KomputerMac komputerM2 = new KomputerMac("pro","OS 17");
 
         ArrayList<Komputer> komputery = new ArrayList<>();
         komputery.add(komputerW1);
